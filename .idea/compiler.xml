@@ -4,6 +4,16 @@
     <bytecodeTargetLevel>
       <module name="ASCII_Text_Signature-task_main" target="1.8" />
       <module name="ASCII_Text_Signature-task_test" target="1.8" />
+      <module name="Problems-A_capital_letter_or_a_digit_main" target="1.8" />
+      <module name="Problems-A_capital_letter_or_a_digit_test" target="1.8" />
+      <module name="Problems-Case_insensitive_main" target="1.8" />
+      <module name="Problems-Case_insensitive_test" target="1.8" />
+      <module name="Problems-Compare_Latin_letters_main" target="1.8" />
+      <module name="Problems-Compare_Latin_letters_test" target="1.8" />
+      <module name="Problems-Digits_or_not_main" target="1.8" />
+      <module name="Problems-Digits_or_not_test" target="1.8" />
+      <module name="Problems-Sequence_main" target="1.8" />
+      <module name="Problems-Sequence_test" target="1.8" />
       <module name="util_main" target="1.8" />
       <module name="util_test" target="1.8" />
     </bytecodeTargetLevel>
