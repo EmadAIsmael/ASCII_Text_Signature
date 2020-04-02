@@ -12,6 +12,8 @@
       <module name="Problems-Compare_Latin_letters_test" target="1.8" />
       <module name="Problems-Digits_or_not_main" target="1.8" />
       <module name="Problems-Digits_or_not_test" target="1.8" />
+      <module name="Problems-FTN-Numbers_main" target="1.8" />
+      <module name="Problems-FTN-Numbers_test" target="1.8" />
       <module name="Problems-Sequence_main" target="1.8" />
       <module name="Problems-Sequence_test" target="1.8" />
       <module name="util_main" target="1.8" />
