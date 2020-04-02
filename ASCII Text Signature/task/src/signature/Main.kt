@@ -9,7 +9,7 @@ import kotlin.math.max
 class Character(val charWidth: Int, val repr: Array<String>)
 
 
-open class Font(private val fontFile: String) {
+class Font(private val fontFile: String) {
 
     private val font = mutableMapOf<Char, Character>()
     private var charSize = 0
